@@ -9,4 +9,5 @@ public class Main {
         Subtractor subtractor = new Subtractor();
         System.out.println(subtractor.subtract(6, 3));
 
-
+    }
+}
